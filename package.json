@@ -1,5 +1,5 @@
 {
-  "name": "@detorresvc/react-chat-widget",
+  "name": "@detorresvc/react-echat-widget",
   "version": "0.1.0",
   "private": false,
   "main": "./lib/index.bundle.js",
@@ -65,12 +65,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msys-megov/chat-support-core.git"
+    "url": "git+https://github.com/detorresvc/react-chat-widget"
   },
   "author": "detorresvc",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/msys-megov/chat-support-core/issues"
+    "url": "https://github.com/detorresvc/react-chat-widget/issues"
   },
-  "homepage": "https://github.com/msys-megov/chat-support-core#readme"
+  "homepage": "https://github.com/detorresvc/react-chat-widget#readme",
+  "keywords": [
+    "React",
+    "Chat",
+    "Widget"
+  ]
 }
